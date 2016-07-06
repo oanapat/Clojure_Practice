@@ -1,2 +1,10 @@
-#### Clojure_Practice
-##### Practice to understand how the Clojure language works
+### Clojure_Practice
+
+- **Role**
+  * Research, Developer
+  
+- **Project Overview**
+  * Individual project
+  
+- **Skills**
+  * Learned basic syntax for the Clojure programming langauge
